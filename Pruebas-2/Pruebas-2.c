@@ -10,9 +10,20 @@ int main()
 
 	while (cont < iteracion)
 	{
-		printf("Ingrese un numero: ");
-		scanf_s("%i", &aux);
-		printf("Usted ingreso: %i\n", aux);
+		aux = 1;
+
+		while (aux % 3 != 0)
+		{
+			printf("Ingrese un numero multiplo de 3: ");
+			scanf_s("%i", &aux);
+			printf("Usted ingreso: %i\n", aux);
+			if (aux %3 != 0)
+			{
+				printf("Valor no valido, por favor reintente\n");
+			}
+
+		}
+		
 		suma += aux;
 		cont++;
 	}
