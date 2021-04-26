@@ -1,3 +1,10 @@
 ﻿  Pruebas-1.c
-A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Pruebas-1\Pruebas-1.c(23,8): warning C4013: 'system' undefined; assuming extern returning int
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Pruebas-1\Pruebas-1.c(7,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Pruebas-1\Pruebas-1.c(7,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Pruebas-1\Pruebas-1.c(7,10): message : the missing variadic argument 2 is required by format string '%c'
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Pruebas-1\Pruebas-1.c(7,10): message : this argument is used as a buffer size
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Pruebas-1\Pruebas-1.c(9,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Pruebas-1\Pruebas-1.c(9,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Pruebas-1\Pruebas-1.c(9,10): message : the missing variadic argument 2 is required by format string '%c'
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Pruebas-1\Pruebas-1.c(9,10): message : this argument is used as a buffer size
   Pruebas-1.vcxproj -> A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\x64\Debug\Pruebas-1.exe
