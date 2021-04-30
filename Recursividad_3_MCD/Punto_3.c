@@ -9,7 +9,7 @@ int mcd(int x, int y)  //Se le dan dos valores y calcula el maximo comun divisor
 	}
 	else
 	{
-		mcd(y, x % y);
+		return mcd(y, x % y);
 	}
 }
 

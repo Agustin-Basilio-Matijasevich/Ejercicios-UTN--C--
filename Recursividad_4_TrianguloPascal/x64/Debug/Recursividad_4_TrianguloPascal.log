@@ -1,4 +1,4 @@
 ﻿  Punto_4.c
-A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Recursividad_4_TrianguloPascal\Punto_4.c(35,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Recursividad_4_TrianguloPascal\Punto_4.c(92,77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Recursividad_4_TrianguloPascal\Punto_4.c(36,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\Recursividad_4_TrianguloPascal\Punto_4.c(93,77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   Recursividad_4_TrianguloPascal.vcxproj -> A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\x64\Debug\Recursividad_4_TrianguloPascal.exe

@@ -19,7 +19,7 @@ int main()
 	double num;  //Numero al cual se le debe calcular el factorial
 
 	//Pido que se ingrese el numero al cual se le debe calcular el factorial
-	printf("Ingrese el numero al cual decea calcularle el factorial\n");
+	printf("Ingrese el numero al cual desea calcularle el factorial\n");
 	scanf_s(" %lf", &num);
 	printf("\n");
 

@@ -19,6 +19,7 @@ int main()
 	//Ciclo de control de ingreso de dato
 	do
 	{
+		printf("Se recomienda Maximizar la ventana del cmd para que la impresion de triangulos grandes salga bien\n");
 		printf("Ingrese la cantidad de filas que quiere imprimir del triangulo de Pascal (Maximo 20)\n");
 		scanf_s(" %i", &fil);
 
