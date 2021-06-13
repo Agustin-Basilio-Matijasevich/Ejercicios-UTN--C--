@@ -1,0 +1,5 @@
+﻿  E5.c
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\TP-Archivos-E5\E5.c(128,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\TP-Archivos-E5\E5.c(196,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\TP-Archivos-E5\E5.c(197,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  TP-Archivos-E5.vcxproj -> A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\x64\Debug\TP-Archivos-E5.exe

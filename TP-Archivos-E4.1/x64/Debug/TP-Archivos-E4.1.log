@@ -1,0 +1,5 @@
+﻿  E4,1.c
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\TP-Archivos-E4.1\E4,1.c(22,46): warning C4047: '=': 'FILE *' differs in levels of indirection from 'int'
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\TP-Archivos-E4.1\E4,1.c(42,62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\TP-Archivos-E4.1\E4,1.c(68,46): warning C4047: '=': 'FILE *' differs in levels of indirection from 'int'
+  TP-Archivos-E4.1.vcxproj -> A:\Programacion\Repositorios-GitHub\UTN-TUP-Ejercicios-y-TP---Por Lenguaje--\Ejercicios-UTN--C--\x64\Debug\TP-Archivos-E4.1.exe
