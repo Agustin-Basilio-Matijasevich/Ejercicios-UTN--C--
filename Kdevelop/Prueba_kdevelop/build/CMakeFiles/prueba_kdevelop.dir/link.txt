@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/prueba_kdevelop.dir/main.c.o  -o prueba_kdevelop 

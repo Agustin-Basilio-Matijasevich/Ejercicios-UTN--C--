@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agustin/Repositorios-Git/Ejercicios-UTN--C--/Kdevelop/Triangulo_Pascal/main.c
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+
