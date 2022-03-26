@@ -1,7 +1,0 @@
-/home/agustin/Repositorios-Git/Ejercicios-UTN--C--/Kdevelop/Triangulo_Pascal/build/CMakeFiles/install/strip.dir
-/home/agustin/Repositorios-Git/Ejercicios-UTN--C--/Kdevelop/Triangulo_Pascal/build/CMakeFiles/install/local.dir
-/home/agustin/Repositorios-Git/Ejercicios-UTN--C--/Kdevelop/Triangulo_Pascal/build/CMakeFiles/install.dir
-/home/agustin/Repositorios-Git/Ejercicios-UTN--C--/Kdevelop/Triangulo_Pascal/build/CMakeFiles/list_install_components.dir
-/home/agustin/Repositorios-Git/Ejercicios-UTN--C--/Kdevelop/Triangulo_Pascal/build/CMakeFiles/rebuild_cache.dir
-/home/agustin/Repositorios-Git/Ejercicios-UTN--C--/Kdevelop/Triangulo_Pascal/build/CMakeFiles/edit_cache.dir
-/home/agustin/Repositorios-Git/Ejercicios-UTN--C--/Kdevelop/Triangulo_Pascal/build/CMakeFiles/triangulo_pascal.dir

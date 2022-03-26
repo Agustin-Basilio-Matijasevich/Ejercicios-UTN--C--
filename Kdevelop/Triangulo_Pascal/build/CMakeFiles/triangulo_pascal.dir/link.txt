@@ -1,1 +1,0 @@
-/usr/bin/cc   -rdynamic CMakeFiles/triangulo_pascal.dir/main.c.o  -o triangulo_pascal 
